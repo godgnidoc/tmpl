@@ -1,0 +1,22 @@
+{
+  "name": "tmpl",
+  "version": "1.0.0",
+  "description": "template engine for nodejs to redner ordinary text",
+  "repository": {
+    "url": "https://github.com/godgnidoc/tmpl.git"
+  },
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "GodGnidoc",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.6.2"
+  }, "devDependencies": {
+    "typescript" : "4.7.4"
+  }
+}
